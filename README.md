@@ -19,6 +19,10 @@ The repository is split in to branches relating to the different ways in which w
 
 ## Some useful references
 
+*   Spring Dependency Injection - Baeldung
+    *   [https://www.baeldung.com/spring-dependency-injection](https://www.baeldung.com/spring-dependency-injection)
+*   Spring Dependency Injection
+    *   [https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-collaborators.html](https://docs.spring.io/spring-framework/reference/core/beans/dependencies/factory-collaborators.html)  
 *   Java Dependency Injection - DI Design Pattern Example Tutorial
     *   [https://www.digitalocean.com/community/tutorials/java-dependency-injection-design-pattern-example-tutorial](https://www.digitalocean.com/community/tutorials/java-dependency-injection-design-pattern-example-tutorial)
 *   Java Dependency Injection (DI) Design Pattern
