@@ -14,7 +14,7 @@ The repository is split in to branches relating to the different ways in which w
     *   How to include classes at runtime
 *   **abstraction**
     *   Using Java Abstract classes
-*   **dependency injection**
+*   **di** dependency injection
     *   Using dependency injection
 
 ## Some useful references
