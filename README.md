@@ -10,7 +10,7 @@ The repository is split in to branches relating to the different ways in which w
 
 *   **main**
     *   Documentation and starting branch
-*   **Legacy - without abstraction or dependency injection**
+*   **legacy** - without abstraction or dependency injection
     *   How to include classes at runtime
 *   **abstraction**
     *   Using Java Abstract classes
